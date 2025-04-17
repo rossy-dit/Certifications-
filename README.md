@@ -1,21 +1,21 @@
 # 🏅 Rossy Lunt’a – Certifications en Cybersécurité
 
-Bienvenue sur mon dépôt public de certifications. Vous trouverez ici la preuve de mes compétences techniques acquises à travers des formations et certifications officielles.
+Bienvenue sur mon dépôt public de certifications. Vous trouverez ici la preuve de mes compétences techniques acquises via la Cisco Networking Academy.
 
 ---
 
 ## ✅ Certifications Obtenues
 
 ### 1. Certified Ethical Hacker (CEH)
-- **Date d’obtention** : Avril 2025
-- **Organisme** : EC-Council
+- **Date d’obtention** : Avril 2025  
+- **Organisme** : Cisco Networking Academy  
 - [Télécharger le certificat (PDF)](https://github.com/Rossy-dit/certifications/blob/main/CEH_Certificate.pdf)
 
 ---
 
 ### 2. Endpoint Security Certificate
-- **Date d’obtention** : 2025
-- **Organisme** : Endpoint Security Academy
+- **Date d’obtention** : 2025  
+- **Organisme** : Cisco Networking Academy  
 - [Télécharger le certificat (PDF)](https://github.com/Rossy-dit/certifications/blob/main/Endpoint_Security.pdf)
 
 ---
